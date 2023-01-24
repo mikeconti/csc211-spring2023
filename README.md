@@ -9,8 +9,7 @@
 
 **Undergraduate:** Sam Calise, Yemi Fasina, Matt Hogan, Nadia Sousa, <br>
 
-**Lecture**
-Tue/Thurs | 2p - 3:15p | White 113
+**Lecture:** Tue/Thurs | 2p - 3:15p | White 113
 
 **Office Hours Schedule**
 <!--Location: Tyler Hall ~ Third (top) Floor Lounge-->
