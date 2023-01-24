@@ -3,27 +3,27 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
+**Lecture:** Tue/Thurs | 2p - 3:15p | White 113
+
 **Teaching Assistants:** 
 
-**Graduate:**  David Perrone <br>
+* **Graduate:**  David Perrone <br>
 
-**Undergraduate:** Sam Calise, Yemi Fasina, Matt Hogan, Nadia Sousa, <br>
-
-**Lecture:** Tue/Thurs | 2p - 3:15p | White 113
+* **Undergraduate:** Sam Calise, Yemi Fasina, Matt Hogan, Nadia Sousa, <br>
 
 **Office Hours Schedule**
 <!--Location: Tyler Hall ~ Third (top) Floor Lounge-->
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Monday |   Yemi|   10:00a – 12:00p | Tyler third floor lounge|
+|Monday |   Yemi <br> Matt |   10:00a – 12:00p <br> 2:00p - 3:00p | Tyler third floor lounge|
 |Tuesday |  Nadia <br> Yemi |  10:00a - 12:00p <br> 4:00p - 5:30p | Tyler third floor lounge <br> Tyler third floor lounge |
-|Wednesday   |  Nadia <br> Yemi <br> Sam |  10:00a – 12:30p <br> 12:00p - 2:00p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
+|Wednesday   |  Nadia <br> Yemi <br> Sam | 10:00a – 12:30p <br> 12:00p - 2:00p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
 |Thursday   |  Nadia <br> Matt <br> Yemi | 10:00a - 12:00p <br> 11:00a - 12:00p <br> 1:00p – 2:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
 |Friday    |   Yemi <br> Nadia |  8:00a - 10:00a <br> 2:00p - 4:00p | Virtual <br>Tyler third floor lounge |
 
 **Discussion Session**
-<br> Location: Tyler 052
+<br> Location: TBD
 
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
