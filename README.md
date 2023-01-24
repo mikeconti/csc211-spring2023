@@ -5,9 +5,9 @@
 
 **Teaching Assistants:** 
 
-#### Graduate: David Perrone <br>
+**Graduate:**  David Perrone <br>
 
-#### Undergraduate: Sam Calise, Yemi Fasina, Matt Hogan, Nadia Sousa, <br>
+** Undergraduate:** Sam Calise, Yemi Fasina, Matt Hogan, Nadia Sousa, <br>
 
 **Lecture**
 Tue/Thurs | 2p - 3:15p | White 113
