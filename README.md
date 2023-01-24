@@ -23,7 +23,7 @@
 |Friday    |   Yemi <br> Nadia |  8:00a - 10:00a <br> 2:00p - 4:00p | Virtual <br>Tyler third floor lounge |
 
 **Discussion Session**
-<br> Location: Tyler 052
+<br> Location: TBD
 
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
