@@ -3,13 +3,13 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
+**Lecture:** Tue/Thurs | 2p - 3:15p | White 113
+
 **Teaching Assistants:** 
 
 * **Graduate:**  David Perrone <br>
 
 * **Undergraduate:** Sam Calise, Yemi Fasina, Matt Hogan, Nadia Sousa, <br>
-
-**Lecture:** Tue/Thurs | 2p - 3:15p | White 113
 
 **Office Hours Schedule**
 <!--Location: Tyler Hall ~ Third (top) Floor Lounge-->
