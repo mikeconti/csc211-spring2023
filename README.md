@@ -19,7 +19,7 @@
 |Monday |   Yemi <br> Matt |   10:00a – 12:00p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge |
 |Tuesday |  Nadia <br> Yemi |  10:00a - 12:00p <br> 4:00p - 5:30p | Tyler third floor lounge <br> Tyler third floor lounge |
 |Wednesday   |  Nadia <br> Yemi <br> Sam | 10:00a – 12:30p <br> 12:00p - 2:00p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
-|Thursday   |  Nadia <br> Matt <br> Yemi | 10:00a - 12:00p <br> 11:00a - 12:00p <br> 1:00p – 2:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
+|Thursday   |  Nadia <br> Matt <br> Michael <br> Yemi | 10:00a - 12:00p <br> 11:00a - 12:00p <br> 12:00p - 1:00p <br> 1:00p – 2:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler 137 <br>Tyler third floor lounge |
 |Friday    |   Yemi <br> Nadia |  8:00a - 10:00a <br> 2:00p - 4:00p | Virtual <br>Tyler third floor lounge |
 
 **Discussion Session**
