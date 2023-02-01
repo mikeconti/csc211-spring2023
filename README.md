@@ -29,7 +29,7 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Monday |   Sam |   6:30p – 7:45p  | Virtual | 
+|Tuesday |   Sam |   6:30p – 7:45p  | [Virtual](https://discord.gg/kT6sq3ypqQ) | 
 |Wednesday |   Matt |   5:00p - 6:00p  |Hybrid / [Discord](https://discord.gg/kT6sq3ypqQ) & Tyler 049 |
 
 
