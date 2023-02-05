@@ -17,9 +17,9 @@
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
 |Monday |   Yemi & Nadia <br> Matt |   10:00a - 12:00p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge |
-|Tuesday |  Nadia <br> Yemi |  10:00a - 12:00p <br> 4:00p - 5:30p | Tyler third floor lounge <br> Tyler third floor lounge |
+|Tuesday |  Nadia <br> Yemi |  10:00a - 12:00p <br> 12:00p - 2:00p | Tyler third floor lounge <br> Tyler third floor lounge |
 |Wednesday   |  Nadia <br> Yemi <br> Sam | 11:30a - 1:30p <br> 12:00p - 2:00p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
-|Thursday   |  Nadia <br>  Michael <br>  Matt <br> Yemi | 10:00a - 12:00p <br>10:00a - 11:00a <br> 11:00a - 12:00p <br> 1:00p - 2:00p | Tyler third floor lounge <br> &emsp; &emsp; Tyler 137  <br>  Tyler third floor lounge <br>Tyler third floor lounge |
+|Thursday   |  Nadia <br>  Michael <br>  Matt <br> Yemi | 10:00a - 12:00p <br>10:00a - 11:00a <br> 11:00a - 12:00p <br> 12:00p - 2:00p | Tyler third floor lounge <br> &emsp; &emsp; Tyler 137  <br>  Tyler third floor lounge <br>Tyler third floor lounge |
 |Friday    |   Yemi |  8:00a - 10:00a | &emsp; &emsp; [Zoom](https://uri-edu.zoom.us/my/xyemi?pwd=aTdNYXhuUkEvU1BoTi9DZ2Vyd1ZmZz09) |
 
 **Discussion Session**
@@ -29,7 +29,7 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Tuesday |   Sam |   6:30p – 7:45p  | [Virtual](https://discord.gg/kT6sq3ypqQ) | 
+|Tuesday |   Sam |   6:30p - 7:45p  | &emsp; &emsp; &emsp; [Discord](https://discord.gg/kT6sq3ypqQ) | 
 |Wednesday |   Matt |   5:00p - 6:00p  |Hybrid / [Discord](https://discord.gg/kT6sq3ypqQ) & Tyler 049 |
 
 
@@ -39,7 +39,7 @@
 | --- | --- | --- |--- |
 |Monday |   David, Matt, Nadia |3:00p - 4:45p  | Ballentine 115 |
 |Wednesday | Matt, Sam, Yemi |   3:00p - 4:45p | Tyler 055 |
-|Thursday | David, Matt, Yemi |   3:30p - 5:15p | Engineering 045|
+|Thursday | David, Matt |   3:30p - 5:15p | Engineering 045|
 
 ### Course Overview
 
