@@ -18,11 +18,25 @@ while (std::cin >> value) {
 }
 ```
 If otherwise, you want to read entire strings that include whitespaces the recommended fucntion is `std::getline`.  See below an example:
+
 ```c++
 std::string name;
 std::cout << "What is your name?";
 std::getline(std::cin, name);
 std::cout << "Hello " << name << "!\n";
+```
+
+If we know the amount of input we'll be reading in, we can use a for loop to collect input:
+
+```c++
+int inputLength;
+std::cin >> inputLength;
+
+for(int i = 0; i < inputLength; i++){
+
+// get input here
+
+}
 ```
 
 
