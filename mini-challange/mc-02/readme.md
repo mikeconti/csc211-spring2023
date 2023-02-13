@@ -47,7 +47,7 @@ Birk has made a new shiny rocket and just received his licence from the Bluesky 
 Can you help Birk find out how many days he has to wait until he sends up his rocket?
 
 ## Input
-On the first line there is a single integer n (1≤n≤100000) the number of days for which the launch license is valid. On the second line follows n integers between 0 and 109 where the i’th integer is the amount of space junk on the i’th day. The first day is day i=0.
+On the first line there is a single integer n (1≤n≤100000) the number of days for which the launch license is valid. On the second line follows n integers  where the i’th integer is the amount of space junk on the i’th day. The first day is day i=0.
 
 ## Output
 Output a single integer, the number of days Birk needs to wait before he launches his rocket.
