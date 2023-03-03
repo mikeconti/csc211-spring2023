@@ -173,7 +173,7 @@ To delete this directory (only if is empty), we can simply run:
 $ rmdir testd
 ```
 
-### Moving files
+### Moving and Renaming files
 
 Lets clean up our workspace by moving that `hello.cpp` file into our projects folder.  The syntax to move one file from one location to another location is `mv <source> <target>`. In this case, it would be:
 
